@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>An Toàn Thực Phẩm</title>
     <style>
         body {
@@ -166,10 +164,7 @@
         <img src="banner.jpg" alt="banner" class="banner">
         <div class="text">
             <h2>Lời nói đầu</h2>
-            <p><i>  
-                Trong thời đại ngày nay, vấn đề an toàn thực phẩm đang trở thành mối quan tâm hàng đầu của cộng đồng, đặc biệt là đối với học sinh – những thế hệ tương lai của đất nước. Nhận thấy thực trạng thực phẩm bẩn, hàng giả tràn lan trên thị trường và tác động tiêu cực của chúng đến sức khỏe, nhóm chúng tôi quyết định thực hiện dự án "Thay đổi nhận thức về thực phẩm sạch cho học sinh tại Vinschool Thăng Long".<br>
-                Mục tiêu của dự án không chỉ đơn thuần là cung cấp thực phẩm sạch mà quan trọng hơn, chúng tôi mong muốn nâng cao nhận thức của học sinh về tầm quan trọng của thực phẩm an toàn. Bằng cách tự trồng các loại rau sạch và chia sẻ miễn phí, chúng tôi khuyến khích mọi người trải nghiệm thực phẩm lành mạnh, từ đó dần thay đổi thói quen tiêu dùng và góp phần xây dựng một cộng đồng quan tâm hơn đến sức khỏe.
-                Dự án này không chỉ là một mô hình thử nghiệm mà còn là một bước khởi đầu để lan tỏa ý thức về thực phẩm sạch trong nhà trường và rộng hơn là trong cộng đồng. Chúng tôi hy vọng rằng, với sự đồng hành của thầy cô, bạn bè và sự quan tâm của toàn xã hội, dự án sẽ đạt được những thành công nhất định và mang lại giá trị thiết thực.
+            <p><i>  Trong thời đại ngày nay, vấn đề an toàn thực phẩm đang trở thành mối quan tâm hàng đầu của cộng đồng, đặc biệt là đối với học sinh – những thế hệ tương lai của đất nước. Nhận thấy thực trạng thực phẩm bẩn, hàng giả tràn lan trên thị trường và tác động tiêu cực của chúng đến sức khỏe, nhóm chúng tôi quyết định thực hiện dự án "Thay đổi nhận thức về thực phẩm sạch cho học sinh tại Vinschool Thăng Long".<br>Mục tiêu của dự án không chỉ đơn thuần là cung cấp thực phẩm sạch mà quan trọng hơn, chúng tôi mong muốn nâng cao nhận thức của học sinh về tầm quan trọng của thực phẩm an toàn. Bằng cách tự trồng các loại rau sạch và chia sẻ miễn phí, chúng tôi khuyến khích mọi người trải nghiệm thực phẩm lành mạnh, từ đó dần thay đổi thói quen tiêu dùng và góp phần xây dựng một cộng đồng quan tâm hơn đến sức khỏe.Dự án này không chỉ là một mô hình thử nghiệm mà còn là một bước khởi đầu để lan tỏa ý thức về thực phẩm sạch trong nhà trường và rộng hơn là trong cộng đồng. Chúng tôi hy vọng rằng, với sự đồng hành của thầy cô, bạn bè và sự quan tâm của toàn xã hội, dự án sẽ đạt được những thành công nhất định và mang lại giá trị thiết thực.  
             </i><br><b>Trân trọng, nhóm 4</b></p>
             <hr>
         </div>
@@ -225,7 +220,5 @@
         </div>
     </div>
     <hr>
-    
 </body>
 </html>
-
