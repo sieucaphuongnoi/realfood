@@ -51,8 +51,8 @@
         .nn, .vande, .tq {
             display: flex;
             flex-wrap: wrap;
-            align-items: flex-start; /* Changed from center to flex-start */
-            justify-content: space-between; /* Changed from center to space-between */
+            align-items: flex-start; 
+            justify-content: space-between; 
             padding: 20px;
             gap: 10px;
         }
