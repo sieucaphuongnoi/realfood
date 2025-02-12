@@ -8,6 +8,9 @@
             margin: 0;
             padding: 0;
             background-color: #f8f1e4;
+            width: 100%;
+            max-width: none;
+            overflow-x: hidden;
         }
         .header {
             display: flex;
