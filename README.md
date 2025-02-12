@@ -42,7 +42,7 @@
         .text {
             font-family: sans-serif;
             width: 50%;
-            font-size: 18px;
+            font-size: 14px;
         }
         .nn, .vande, .tq {
             display: flex;
@@ -58,8 +58,8 @@
             text-align: center;
         }
         .nnảnh img, .ảnh2 img {
-            max-width: 100%;
-            height: auto;
+            max-width: 200%;
+            height: 200%;
         }
         .list, .vd, .tq1 {
             flex: 1;
@@ -70,10 +70,10 @@
             text-align: center;
         }
         .list h2, .vd h2, .tq1 h2 {
-            font-size: 25px;
+            font-size: 14px;
         }
         .list p, .vd p, .tq1 p {
-            font-size: 15px;
+            font-size: 14px;
             margin: 5px 0;
         }
         .ảnh3 {
